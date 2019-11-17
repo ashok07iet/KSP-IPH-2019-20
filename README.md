@@ -1,5 +1,5 @@
 # KSP-IPH-2019-20
-1. 
+1.Synposis 
 Motivation: Why do you think this problem is worth solving? What are the foreseeable outcomes? (75 words) *
 
 Unified Communication App (UCA) is a same problem solved by GSMA group develop Rich
