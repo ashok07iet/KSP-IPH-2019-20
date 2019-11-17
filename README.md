@@ -130,5 +130,8 @@ compile an individual plugin by specifing the `pom.xml` for that plugin, for exa
 ```
 mvn verify -f plugins/broadcast/pom.xml
 
+Refer : flowing document for intial setup of client and server
+client_screen_shot.docx
+open-fire-server_setup.odt
 
 
