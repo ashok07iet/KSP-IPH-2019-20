@@ -74,7 +74,7 @@ Other folders are:
 
 To build the complete project including plugins, run the command
 ```
-mvn verify
+mvn  verify -Dgpg.skip=true
 ```  
 
 However much of the time it is only necessary to make changes to the core XMPP server itself in which case the command
